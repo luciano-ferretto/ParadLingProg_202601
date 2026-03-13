@@ -1,3 +1,4 @@
+
 //Sem Parâmetros
 const greet = () => console.log("Hello, World!");
 greet();  // Saída: Hello, World!
