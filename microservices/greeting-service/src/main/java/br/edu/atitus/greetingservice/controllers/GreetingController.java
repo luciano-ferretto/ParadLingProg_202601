@@ -32,4 +32,5 @@ public class GreetingController {
         String greetingReturn = String.format("%s %s!!!", config.getGreeting(), name);
         return greetingReturn;
     }
+
 }
